@@ -12,7 +12,7 @@ window.addEventListener("load",function(){
         }
         else
         {
-            p.innerHTML = "Tu edad dentro de cuatro años será "+(edad+4);
+            p.innerHTML = "Tu edad dentro de cuatro años será "+(edad+4)".";
         }
     }
 
