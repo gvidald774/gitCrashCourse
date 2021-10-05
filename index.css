@@ -1,0 +1,11 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: small;
+}
+
+li {
+    list-style-type: square;
+}
