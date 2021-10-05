@@ -8,6 +8,17 @@
 </head>
 <body>
     <h2>Calculadora de tu edad más cuatro años</h2>
-    <p>Próximamente...</p>
+    <p>Instrucciones:</p>
+    <ul>
+        <li>Introduce tu edad.</li>
+        <li>Súmale 4.</li>
+        <li>Esa es tu edad dentro de cuatro años.</li>
+    </ul>
+
+    <form>
+        <input type="text" name="edad" id="edad" />
+        <input type="button" name="boton" id="boton" value="Calcula" />
+    </form>
+        <p id="resultado"></p>
 </body>
 </html>
